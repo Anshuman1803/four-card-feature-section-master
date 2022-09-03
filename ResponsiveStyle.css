@@ -1,0 +1,19 @@
+@media screen and (max-width: 768px) {
+    .main{
+        grid-template-columns: 1fr 
+    } 
+}
+@media screen and (max-width: 425) {
+   body{
+    font-size: 13px;
+   }
+   header h2{
+    font-size: 15px;
+   }
+   header h3{
+    font-size: 15px;
+   }
+   .box{
+    padding: 15px;
+   }
+}
